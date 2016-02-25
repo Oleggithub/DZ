@@ -3,6 +3,21 @@ package DZ_12.DZ_12_2;
 public class Employer {
     private String name;
     private Employer boss;
+    private Employer vsem_boss;
+
+
+
+    public Employer getVsem_boss() {
+        return vsem_boss;
+    }
+
+    public void setVsem_boss(Employer vsem_boss) {
+        this.vsem_boss = vsem_boss;
+    }
+
+    public Employer(Employer vsem_boss) {
+        this.vsem_boss = vsem_boss;
+    }
 
     public Employer(String name, Employer boss) {
         this.name = name;
@@ -38,7 +53,8 @@ public class Employer {
         Employer employer = (Employer) o;
 
         if (name != null ? !name.equals(employer.name) : employer.name != null) return false;
-        return !(boss != null ? !boss.equals(employer.boss) : employer.boss != null);
+        if (boss != null ? !boss.equals(employer.boss) : employer.boss != null) return false;
+        return !(vsem_boss != null ? !vsem_boss.equals(employer.vsem_boss) : employer.vsem_boss != null);
 
     }
 
@@ -46,6 +62,7 @@ public class Employer {
     public int hashCode() {
         int result = name != null ? name.hashCode() : 0;
         result = 31 * result + (boss != null ? boss.hashCode() : 0);
+        result = 31 * result + (vsem_boss != null ? vsem_boss.hashCode() : 0);
         return result;
     }
 
@@ -53,7 +70,15 @@ public class Employer {
     public String toString() {
         return "Employer{" +
                 "name='" + name + '\'' +
-               // ", boss=" + boss +
+                //", boss=" + boss +
+               // ", vsem_boss=" + vsem_boss +
                 '}';
     }
+//    @Override
+//    public String toString() {
+//        return "Employer{" +
+//                "name='" + name + '\'' +
+//               // ", boss=" + boss +
+//                '}';
+//    }
 }

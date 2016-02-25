@@ -8,10 +8,13 @@ public class EmployerTest {
     public static final String EMP_2 = "emp2";
     public static final String EMP_3 = "emp3";
 
-    public static void main(String[] args) {
-        Employer emp = new Employer(EMP_1, new Employer(EMP_2, new Employer(EMP_3, new Employer("Boss"))));
 
-        Employer boss = new Employer("Boss"); // главный босс
+    public static void main(String[] args) {
+        Employer emp = new Employer(EMP_1, new Employer(EMP_2, new Employer(EMP_3, new Employer(new Employer(new Employer("BOSS!"))))));
+
+        Employer boss = new Employer("Boss1"); // главный босс
+        Employer vsem_boss = new Employer(boss);
+
         Employer emp3 = new Employer(EMP_3, boss); // // для emp 3 боссом будет boss
         Employer emp2 = new Employer(EMP_2, emp3); // для emp 2 боссом будет emp3
         Employer emp1 = new Employer(EMP_1, emp2);// для emp 1 боссом будет emp2 = просто сотрудник
@@ -20,7 +23,8 @@ public class EmployerTest {
 //        System.out.println(emp3);
 //        System.out.println(boss);
 
-        Employer employers[] = new Employer[4];
+
+        Employer employers[] = new Employer[5];
         getAllEmployer(employers, 0, emp1);
         System.out.println(Arrays.toString(employers));
 
@@ -31,8 +35,11 @@ public class EmployerTest {
 
         if (currentEmpl.getBoss() != null)
         {
+
             getAllEmployer(employer, ++currentPosition, currentEmpl.getBoss());
+            //getAllEmployer(employer, ++currentPosition, currentEmpl.getVsem_boss());
+
         }
-       // employer[currentPosition]= currentEmpl;
+
     }
 }

@@ -1,6 +1,15 @@
 package DZ_16.Clone.DZ_16_1_JMX;
 
-public class Entity_Base implements Cloneable{
+import javax.management.Attribute;
+import javax.management.AttributeList;
+import javax.management.AttributeNotFoundException;
+import javax.management.DynamicMBean;
+import javax.management.InvalidAttributeValueException;
+import javax.management.MBeanException;
+import javax.management.MBeanInfo;
+import javax.management.ReflectionException;
+
+public class Entity_Base implements Cloneable, DynamicMBean{
     String entity_name;
     int entity_kod;
     Entity_Base entity_vid;
@@ -65,6 +74,36 @@ public class Entity_Base implements Cloneable{
                 ", entity_kod=" + entity_kod +
                 ", entity_vid=" + entity_vid +
                 '}';
+    }
+
+    @Override
+    public Object getAttribute(String attribute) throws AttributeNotFoundException, MBeanException, ReflectionException {
+        return null;
+    }
+
+    @Override
+    public void setAttribute(Attribute attribute) throws AttributeNotFoundException, InvalidAttributeValueException, MBeanException, ReflectionException {
+
+    }
+
+    @Override
+    public AttributeList getAttributes(String[] attributes) {
+        return null;
+    }
+
+    @Override
+    public AttributeList setAttributes(AttributeList attributes) {
+        return null;
+    }
+
+    @Override
+    public Object invoke(String actionName, Object[] params, String[] signature) throws MBeanException, ReflectionException {
+        return null;
+    }
+
+    @Override
+    public MBeanInfo getMBeanInfo() {
+        return null;
     }
 //    public Entity_Base createObjectFromBaseEntity(){
 //        Entity_Base entity_base = new Entity_Base("Firma2", 2, "OOO");

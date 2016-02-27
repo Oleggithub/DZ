@@ -2,8 +2,11 @@ package DZ_16.Clone.DZ_16_1_JMX;
 
 import javax.management.InstanceAlreadyExistsException;
 import javax.management.MBeanRegistrationException;
+import javax.management.MBeanServer;
 import javax.management.MalformedObjectNameException;
 import javax.management.NotCompliantMBeanException;
+import javax.management.ObjectName;
+import java.lang.management.ManagementFactory;
 
 public class Entity_Base_Test {
     public static void main(String[] args) throws MalformedObjectNameException, NotCompliantMBeanException, InstanceAlreadyExistsException, MBeanRegistrationException, CloneNotSupportedException {
@@ -21,6 +24,12 @@ public class Entity_Base_Test {
 
         //clone_child.lightclone();
         printInformationAboutEntity_Base(fazer_child, clone_child);
+
+        MBeanServer platformMBeanServer = ManagementFactory.getPlatformMBeanServer();
+        Entity_Base entity_base1 = new Entity_Base();
+        ObjectName objectName = new ObjectName("Entity_Base_M: name=user_test");
+        platformMBeanServer.registerMBean(entity_base1, objectName);
+        while(true);
 
 
       //  while(true);

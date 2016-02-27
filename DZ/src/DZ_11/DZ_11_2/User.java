@@ -17,6 +17,10 @@ public class User {
         this.user_role = user_role;
     }
 
+    public User(String testUser) {
+        this.login = testUser;
+    }
+
     public User_Role getUser_role() {
         return user_role;
     }

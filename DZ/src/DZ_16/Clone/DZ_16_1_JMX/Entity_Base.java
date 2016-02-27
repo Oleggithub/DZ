@@ -1,6 +1,6 @@
 package DZ_16.Clone.DZ_16_1_JMX;
 
-public class Entity_Base {
+public class Entity_Base implements Cloneable{
     String entity_name;
     int entity_kod;
     Entity_Base entity_vid;

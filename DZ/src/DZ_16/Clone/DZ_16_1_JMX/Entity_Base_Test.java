@@ -29,6 +29,8 @@ public class Entity_Base_Test {
         Entity_Base entity_base1 = new Entity_Base();
         ObjectName objectName = new ObjectName("Entity_Base_M: name=user_test");
         platformMBeanServer.registerMBean(entity_base1, objectName);
+       // StandardMBean mbean = new StandardMBean(entity_base1, Entity_Base_M.class);
+        //platformMBeanServer.registerMBean(mbean, objectName);
         while(true);
 
 

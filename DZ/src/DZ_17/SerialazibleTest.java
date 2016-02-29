@@ -19,8 +19,8 @@ public class SerialazibleTest {
         }
         FileOutputStream fileOutputStream = new FileOutputStream(file);
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
-        User user = new User("testUser");
-        objectOutputStream.writeObject(user);
+        User user1 = new User("testUser");
+        objectOutputStream.writeObject(user1);
         objectOutputStream.close();
     }
 }

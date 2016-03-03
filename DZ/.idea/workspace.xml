@@ -22,40 +22,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_14/reflection_Test/User.java">
+      <file leaf-file-name="CloneTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/CloneTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-              <folding>
-                <element signature="e#284#285#0" expanded="false" />
-                <element signature="e#316#317#0" expanded="false" />
-                <element signature="e#350#351#0" expanded="false" />
-                <element signature="e#422#423#0" expanded="false" />
-                <element signature="e#453#454#0" expanded="false" />
-                <element signature="e#480#481#0" expanded="false" />
-                <element signature="e#520#521#0" expanded="false" />
-                <element signature="e#552#553#0" expanded="false" />
-              </folding>
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_11/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding>
-                <element signature="e#909#910#0" expanded="false" />
-                <element signature="e#936#937#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_11/DZ_11_1/User.java">
+      <file leaf-file-name="MyCalculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_0/MyCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -64,73 +42,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CloneTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/CloneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/Clone_1/Gluboko_Clone/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#257#258#0" expanded="false" />
-                <element signature="e#284#285#0" expanded="false" />
-                <element signature="e#323#324#0" expanded="false" />
-                <element signature="e#355#356#0" expanded="false" />
-                <element signature="e#381#382#0" expanded="false" />
-                <element signature="e#407#408#0" expanded="false" />
-                <element signature="e#441#442#0" expanded="false" />
-                <element signature="e#471#472#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/Clone_1/Poverxnostno_Clone/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-              <folding>
-                <element signature="e#158#159#0" expanded="false" />
-                <element signature="e#185#186#0" expanded="false" />
-                <element signature="e#224#225#0" expanded="false" />
-                <element signature="e#256#257#0" expanded="false" />
-                <element signature="e#282#283#0" expanded="false" />
-                <element signature="e#308#309#0" expanded="false" />
-                <element signature="e#342#343#0" expanded="false" />
-                <element signature="e#372#373#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/JMX/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#1102#1103#0" expanded="false" />
+                <element signature="e#1129#1130#0" expanded="false" />
+                <element signature="e#1169#1170#0" expanded="false" />
+                <element signature="e#1201#1202#0" expanded="false" />
+                <element signature="e#1228#1229#0" expanded="false" />
+                <element signature="e#1254#1255#0" expanded="false" />
+                <element signature="e#1289#1290#0" expanded="false" />
+                <element signature="e#1319#1320#0" expanded="false" />
+                <element signature="e#1350#1351#0" expanded="false" />
+                <element signature="e#1379#1380#0" expanded="false" />
+                <element signature="e#1421#1422#0" expanded="false" />
+                <element signature="e#1457#1458#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -141,79 +70,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CloneTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/Clone_1/CloneTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-              <folding>
-                <element signature="e#710#711#0" expanded="false" />
-                <element signature="e#752#753#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasketCats.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/Clone_1/BasketCats.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="false" />
-                <element signature="e#508#509#0" expanded="false" />
-                <element signature="e#536#537#0" expanded="false" />
-                <element signature="e#578#579#0" expanded="false" />
-                <element signature="e#612#613#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculatorMBean.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/JMX/CalculatorMBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Entity_Base.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/DZ_16_1_JMX/Entity_Base.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="20" />
-              <folding>
-                <element signature="e#1465#1466#0" expanded="false" />
-                <element signature="e#1499#1500#0" expanded="false" />
-                <element signature="e#1553#1554#0" expanded="false" />
-                <element signature="e#1599#1600#0" expanded="false" />
-                <element signature="e#1633#1634#0" expanded="false" />
-                <element signature="e#1666#1667#0" expanded="false" />
-                <element signature="e#1715#1716#0" expanded="false" />
-                <element signature="e#1759#1760#0" expanded="false" />
-                <element signature="e#1801#1802#0" expanded="false" />
-                <element signature="e#1834#1835#0" expanded="false" />
-                <element signature="e#1891#1892#0" expanded="false" />
-                <element signature="e#1935#1936#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Entity_Base_M.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/DZ_16_1_JMX/Entity_Base_M.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -224,49 +83,8 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultMBeanServerInterceptor.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/com/sun/jmx/interceptor/DefaultMBeanServerInterceptor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="332" column="58" selection-start-line="332" selection-start-column="23" selection-end-line="332" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#83634#0" expanded="false" />
                 <element signature="imports" expanded="false" />
-                <element signature="e#14222#14234#0" expanded="false" />
-                <element signature="e#20012#20028#0" expanded="false" />
-                <element signature="e#21748#21764#0" expanded="false" />
-                <element signature="e#24041#24049#0" expanded="false" />
-                <element signature="e#24723#24724#0" expanded="false" />
-                <element signature="e#24769#24770#0" expanded="false" />
-                <element signature="e#27795#27803#0" expanded="false" />
-                <element signature="e#44927#44928#0" expanded="false" />
-                <element signature="e#44956#44957#0" expanded="false" />
-                <element signature="e#61155#61167#0" expanded="false" />
-                <element signature="e#62755#62771#0" expanded="false" />
-                <element signature="e#65267#65283#0" expanded="false" />
-                <element signature="e#75157#75158#0" expanded="false" />
-                <element signature="e#75242#75243#0" expanded="false" />
-                <element signature="e#82313#82314#0" expanded="false" />
-                <element signature="e#82380#82381#0" expanded="false" />
-                <element signature="e#82422#82423#0" expanded="false" />
-                <element signature="e#82492#82493#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/Lesson16Homework/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -277,7 +95,7 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -287,20 +105,145 @@
         <entry file="file://$PROJECT_DIR$/src/DZ_17/SerialazibleTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadSerialize.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/ReadSerialize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadSerialize.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/ReadSerialize.java">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_18/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6296296">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_18/DZ_18_1/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding>
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#614#615#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#728#729#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#980#981#0" expanded="true" />
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_18/DZ_18_1/UserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_config_data_set.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/property_config/user_config_data_set.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserSystemTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_18/UserSystemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reflection_Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_14/reflection_Test/Reflection_Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserAutentification.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DZ_15/Autefication/UserAutentification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/property_config/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -309,10 +252,10 @@
         <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/RandomClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="50" />
               <folding>
-                <element signature="e#125#126#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="false" />
+                <element signature="e#174#175#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -322,7 +265,17 @@
         <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/WriteSerialize.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PropertyTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/property_config/PropertyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -330,11 +283,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DZ_11/DZ_11_2/User.java">
+      <file leaf-file-name="Property_User_Test_DZ_18_1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/resources/property_config/Property_User_Test_DZ_18_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="2.1310542">
+              <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/config.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -373,20 +338,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DZ_10/DZ_10_1/Uncheck_Exeption.java" />
-        <option value="$PROJECT_DIR$/src/DZ_10/DZ_10_1/Check_Exeption1.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/ExeptionTest.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/User.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/assert_test/AssertExamole.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/log_test/LogTest.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/assert_test/AssertExample.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/DZ_11_1/User_Roles.java" />
-        <option value="$PROJECT_DIR$/src/DZ_12/Logger_Test.java" />
-        <option value="$PROJECT_DIR$/src/DZ_12/recursion/RecursTest.java" />
-        <option value="$PROJECT_DIR$/src/DZ_12/DZ_12_1/Employer.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/DZ_11_1/User.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/DZ_11_2/User_Role.java" />
-        <option value="$PROJECT_DIR$/src/DZ_11/DZ_11_2/AutificationTest.java" />
         <option value="$PROJECT_DIR$/src/DZ_11/DZ_11_2/ZZZ.java" />
         <option value="$PROJECT_DIR$/src/DZ_13/Polindrom.java" />
         <option value="$PROJECT_DIR$/src/DZ_13/Polindrom_Recursion.java" />
@@ -421,9 +372,23 @@
         <option value="$PROJECT_DIR$/src/DZ_17/DZ_17_1/InSerialize.java" />
         <option value="$PROJECT_DIR$/src/DZ_17/DZ_17_1/OutSerialize.java" />
         <option value="$PROJECT_DIR$/src/DZ_17/DZ_17_1/WrittenSerialize.java" />
+        <option value="$PROJECT_DIR$/src/DZ_17/DZ_17_1/RandomClass.java" />
         <option value="$PROJECT_DIR$/src/DZ_17/DZ_17_1/WriteSerialize.java" />
         <option value="$PROJECT_DIR$/src/DZ_17/DZ_17_1/ReadSerialize.java" />
-        <option value="$PROJECT_DIR$/src/DZ_17/DZ_17_1/RandomClass.java" />
+        <option value="$PROJECT_DIR$/src/DZ_18/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config-properties" />
+        <option value="$PROJECT_DIR$/src/main/java/DZ_16/Clone/CloneTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DZ_17/DZ_17_1/ReadSerialize.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DZ_18/UserSystemTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/PropertyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/property_config/PropertyTest.java" />
+        <option value="$PROJECT_DIR$/src/resources/property_config/PropertyTest.java" />
+        <option value="$PROJECT_DIR$/src/DZ_18/DZ_18_1/User.java" />
+        <option value="$PROJECT_DIR$/src/resources/property_config/user_config_data_set.properties" />
+        <option value="$PROJECT_DIR$/src/resources/property_config/Property_User_Test_DZ_18_1.java" />
+        <option value="$PROJECT_DIR$/src/DZ_18/UserSystemTest.java" />
+        <option value="$PROJECT_DIR$/src/DZ_18/DZ_18_1/UserTest.java" />
       </list>
     </option>
   </component>
@@ -471,7 +436,6 @@
     <panes>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -504,7 +468,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ_17" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -522,11 +486,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ_17" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DZ_17_1" />
+              <option name="myItemId" value="property_config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DZ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DZ" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -544,7 +522,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Clone" />
+              <option name="myItemId" value="DZ_18" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -559,11 +537,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DZ_18" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DZ_18_1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -589,91 +576,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\My_Lessons_Java\Java_Elementary\Java_Lessons\DZ\src\DZ_9\abstract_test" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My_Lessons_Java\Java_Elementary\Java_Lessons\DZ\src\main\resources\property_config" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="DZ_16.Clone.Lesson16Homework" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="false" name="Entity_Base_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="DZ_16.Clone.DZ_16_1_JMX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="DZ_16.Clone.DZ_16_1_JMX.Entity_Base_Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DZ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="JMXRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="DZ_16.Clone.Lesson16Homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="DZ_16.Clone.Lesson16Homework.JMXRegistration" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DZ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="SerialazibleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="DZ_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="DZ_17.SerialazibleTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DZ" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="WriteSerialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="DZ_17.DZ_17_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="DZ_17.DZ_17_1.WriteSerialize" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DZ" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Property_User_Test_DZ_18_1">
     <configuration default="false" name="ReadSerialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -682,6 +592,86 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="DZ_17.DZ_17_1.ReadSerialize" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DZ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserSystemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DZ_18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DZ_18.UserSystemTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DZ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PropertyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="resources.property_config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="resources.property_config.PropertyTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DZ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="UserTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="DZ_18.DZ_18_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="DZ_18.DZ_18_1.UserTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DZ" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Property_User_Test_DZ_18_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="resources.property_config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="resources.property_config.Property_User_Test_DZ_18_1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -863,19 +853,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Animals_1" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Entity_Base_Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.JMXRegistration" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SerialazibleTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.WriteSerialize" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ReadSerialize" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReadSerialize" />
+      <item index="2" class="java.lang.String" itemvalue="Application.UserSystemTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PropertyTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.UserTest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Property_User_Test_DZ_18_1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ReadSerialize" />
-        <item index="1" class="java.lang.String" itemvalue="Application.WriteSerialize" />
-        <item index="2" class="java.lang.String" itemvalue="Application.JMXRegistration" />
-        <item index="3" class="java.lang.String" itemvalue="Application.SerialazibleTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Entity_Base_Test" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Property_User_Test_DZ_18_1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UserTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.UserSystemTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PropertyTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReadSerialize" />
       </list>
     </recent_temporary>
   </component>
@@ -894,7 +884,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1374" height="746" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -907,7 +897,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36638656" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31722054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31722054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1193,6 +1183,30 @@
           <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DZ_18/UserSystemTest.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DZ_18/DZ_18_1/UserTest.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DZ_18/DZ_18_1/UserTest.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DZ_18/DZ_18_1/UserTest.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/DZ_13/Fibonachi.java</url>
           <line>3</line>
@@ -1206,7 +1220,7 @@
           <option name="timeStamp" value="71" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="74" />
+      <option name="time" value="81" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1215,109 +1229,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DZ_3/Test4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_3/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_3/Test_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_3/TestNNN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_2/DZ2_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_2/DZ2_9_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_2/DZ2_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_2/DZ2_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Мои документы/Downloads/DZ_3 (2).java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="5" selection-start-line="12" selection-start-column="3" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_13/Polindrom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_13/Polindrom_Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_12/DZ_12_2/Employer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_12/DZ_12_2/EmployerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_13/Fibonachi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#194#195#0" expanded="false" />
-            <element signature="e#234#235#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3321617">
@@ -1346,33 +1257,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_14/reflection_Test/Reflection_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/annotation/RetentionPolicy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#1106#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_15/Autefication/UserAutentification.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1380,18 +1268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
-          <folding>
-            <element signature="e#248#249#0" expanded="false" />
-            <element signature="e#301#302#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-            <element signature="e#354#355#0" expanded="false" />
-            <element signature="e#389#390#0" expanded="false" />
-            <element signature="e#419#420#0" expanded="false" />
-            <element signature="e#450#451#0" expanded="false" />
-            <element signature="e#477#478#0" expanded="false" />
-            <element signature="e#517#518#0" expanded="false" />
-            <element signature="e#549#550#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1399,13 +1275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#508#509#0" expanded="false" />
-            <element signature="e#536#537#0" expanded="false" />
-            <element signature="e#578#579#0" expanded="false" />
-            <element signature="e#612#613#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1413,17 +1282,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#257#258#0" expanded="false" />
-            <element signature="e#284#285#0" expanded="false" />
-            <element signature="e#323#324#0" expanded="false" />
-            <element signature="e#355#356#0" expanded="false" />
-            <element signature="e#381#382#0" expanded="false" />
-            <element signature="e#407#408#0" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-            <element signature="e#471#472#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1431,16 +1289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-          <folding>
-            <element signature="e#158#159#0" expanded="false" />
-            <element signature="e#185#186#0" expanded="false" />
-            <element signature="e#224#225#0" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-            <element signature="e#308#309#0" expanded="false" />
-            <element signature="e#342#343#0" expanded="false" />
-            <element signature="e#372#373#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1448,18 +1296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="50" column="30" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
-          <folding>
-            <element signature="e#710#711#0" expanded="false" />
-            <element signature="e#752#753#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/CloneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1474,7 +1310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1489,7 +1324,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.92022794">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#460#461#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#568#569#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#663#664#0" expanded="false" />
+            <element signature="e#695#696#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#799#800#0" expanded="false" />
+            <element signature="e#834#835#0" expanded="false" />
+            <element signature="e#865#866#0" expanded="false" />
+            <element signature="e#913#914#0" expanded="false" />
+            <element signature="e#953#954#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1497,7 +1347,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#460#461#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#536#537#0" expanded="false" />
+            <element signature="e#568#569#0" expanded="false" />
+            <element signature="e#621#622#0" expanded="false" />
+            <element signature="e#663#664#0" expanded="false" />
+            <element signature="e#695#696#0" expanded="false" />
+            <element signature="e#723#724#0" expanded="false" />
+            <element signature="e#765#766#0" expanded="false" />
+            <element signature="e#799#800#0" expanded="false" />
+            <element signature="e#834#835#0" expanded="false" />
+            <element signature="e#865#866#0" expanded="false" />
+            <element signature="e#913#914#0" expanded="false" />
+            <element signature="e#953#954#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1505,16 +1370,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#284#285#0" expanded="false" />
-            <element signature="e#316#317#0" expanded="false" />
-            <element signature="e#350#351#0" expanded="false" />
-            <element signature="e#422#423#0" expanded="false" />
-            <element signature="e#453#454#0" expanded="false" />
-            <element signature="e#480#481#0" expanded="false" />
-            <element signature="e#520#521#0" expanded="false" />
-            <element signature="e#552#553#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1522,10 +1377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#909#910#0" expanded="false" />
-            <element signature="e#936#937#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1533,7 +1384,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1541,10 +1391,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1552,27 +1399,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="80" column="8" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="20" />
-          <folding>
-            <element signature="e#1465#1466#0" expanded="false" />
-            <element signature="e#1499#1500#0" expanded="false" />
-            <element signature="e#1553#1554#0" expanded="false" />
-            <element signature="e#1599#1600#0" expanded="false" />
-            <element signature="e#1633#1634#0" expanded="false" />
-            <element signature="e#1666#1667#0" expanded="false" />
-            <element signature="e#1715#1716#0" expanded="false" />
-            <element signature="e#1759#1760#0" expanded="false" />
-            <element signature="e#1801#1802#0" expanded="false" />
-            <element signature="e#1834#1835#0" expanded="false" />
-            <element signature="e#1891#1892#0" expanded="false" />
-            <element signature="e#1935#1936#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/JMX/JMXTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -1635,16 +1461,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1653,24 +1471,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_17/SerialazibleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1678,35 +1480,235 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_17/SerialazibleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/RandomClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="50" />
           <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="false" />
+            <element signature="e#174#175#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/WriteSerialize.java">
+    <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="false" />
+            <element signature="e#1129#1130#0" expanded="false" />
+            <element signature="e#1169#1170#0" expanded="false" />
+            <element signature="e#1201#1202#0" expanded="false" />
+            <element signature="e#1228#1229#0" expanded="false" />
+            <element signature="e#1254#1255#0" expanded="false" />
+            <element signature="e#1289#1290#0" expanded="false" />
+            <element signature="e#1319#1320#0" expanded="false" />
+            <element signature="e#1350#1351#0" expanded="false" />
+            <element signature="e#1379#1380#0" expanded="false" />
+            <element signature="e#1421#1422#0" expanded="false" />
+            <element signature="e#1457#1458#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/CloneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_0/MyCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_14/reflection_Test/Reflection_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_15/Autefication/UserAutentification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_16/Clone/JMX/JMXTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/ReadSerialize.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6296296">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_17/DZ_17_1/WriteSerialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="433" column="0" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/property_config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/property_config/user_config_data_set.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/property_config/PropertyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_18/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_18/DZ_18_1/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_18/UserSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DZ_18/DZ_18_1/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/property_config/Property_User_Test_DZ_18_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.1310542">
+          <caret line="44" column="67" selection-start-line="44" selection-start-column="67" selection-end-line="44" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

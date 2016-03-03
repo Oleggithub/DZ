@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.io.ObjectOutputStream;
 public class WriteSerialize {
     public static void main (String args[]) throws IOException {
+
+
         RandomClass obj1 = new RandomClass();
         RandomClass obj2 = new RandomClass();
         ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("My_objects.txt"));

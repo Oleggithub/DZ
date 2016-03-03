@@ -1,5 +1,6 @@
 package DZ_16.Clone;
 
+
 public class CloneTest {
     public static void main(String[] args) throws CloneNotSupportedException {
         User parent = new User("parentName", 45, null);

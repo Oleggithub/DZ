@@ -1,5 +1,7 @@
 package DZ_18.DZ_18_1;
 
+import resources.property_config.Property_User_Test_DZ_18_1;
+
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -51,9 +53,19 @@ public class UserTest {
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
         Object o = null;
         while ((o = objectInputStream.readObject()) != null){// читаем из файла
-            System.out.println(o);
+            //System.out.println(o);
+            if (o.getClass().getClassLoader().getResource("username") == Property_User_Test_DZ_18_1.class.getClassLoader().getResource("username")){
+                System.out.println("o.getClass() = " + o.getClass().getClassLoader().getResource("username"));
+                System.out.println(Property_User_Test_DZ_18_1.class.getClassLoader().getResource("username"));
+                System.out.println(Property_User_Test_DZ_18_1.class.getMethods());
+
+                System.out.println("o = " + o);
+                //o.equals(objectInputStream.available());
+                //System.out.println(o.equals(Property_User_Test_DZ_18_1.class.getClassLoader().getResource("username")));
+            }
         }
         objectInputStream.close();
+
 
     }
 

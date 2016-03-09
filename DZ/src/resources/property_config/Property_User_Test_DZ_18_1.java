@@ -49,4 +49,5 @@ public class Property_User_Test_DZ_18_1 {
         System.out.println(properties.get("username"));
         System.out.println(properties.get("company"));
     }
+
 }

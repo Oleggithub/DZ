@@ -113,11 +113,23 @@ public class MyMap<K, V> {
             }
         }
     }
+    public void remove(K key, V value) { // метод remove удаляем из массива ключ и значение
+        if (key != null) {
+            int newPositionHash = hash(key);
 
+            int index = indexFor(newPositionHash);
+            System.out.println("index = " + index);
+            MyEntry<K, V> element = elements[index];
+            if (element != null && key.equals(element.key)&&(newPositionHash == element.hash)){
+                elements[index] = null;
+            }
+        }
+    }
     private void createNewEntry(V value, K key, int newPositionHash, MyEntry<K, V> element, int index) {
         MyEntry myEntry = new MyEntry(key, value, element, newPositionHash);
         elements[index] = myEntry;
     }
+
 
 
     private int indexFor(int newPositionHash) {// метод определяет позицию в массиве

@@ -6,5 +6,7 @@ public class MyMapTest {
         myMap.put(1,"Oleg");
         myMap.put(2,"Jenya");
         System.out.println(myMap);
+        myMap.remove(2, "");
+        System.out.println(myMap);
     }
 }

@@ -1,10 +1,27 @@
 package DZ_21;
 
 import java.util.Arrays;
+import java.util.Iterator;
 import java.util.Map;
 
-public class MyMap<K, V> {
+public class MyMap<K, V> implements Iterator, Iterable {
     private static final int CAPACITY = 16;
+    private int cursor;
+
+    @Override
+    public Iterator iterator() {
+        return this;
+    }
+
+    @Override
+    public boolean hasNext() {
+        return cursor < elements.length;
+    }
+
+    @Override
+    public Object next() {
+        return elements[cursor++];
+    }
 
     public static class MyEntry<K, V> implements Map.Entry<K, V> {
         private K key;
@@ -35,7 +52,8 @@ public class MyMap<K, V> {
 
         @Override
         public V setValue(V value) {
-            return null;
+            this.value = value;
+            return value;
         }
 
 
@@ -125,6 +143,24 @@ public class MyMap<K, V> {
             }
         }
     }
+
+    public void remove1 (K key){
+        int hashForRemove = hash(key);// определяем на базе ключа hash - gj,bnjdst cldbub
+        int index = indexFor(hashForRemove);// необходимо забрать индекс нашего массива,
+        // где будем искать объект для удаления, исходя из значения ключа
+
+        if (elements[index].key.equals(key)){
+            elements[index] = elements[index].nextEntry;
+        }else{
+        MyEntry prev = elements[index];
+        MyEntry next = elements[index].getNexEntry();
+
+        while(next != null && next.key.equals(key) && next.hash != hashForRemove){
+            prev = next;
+            next = next.getNexEntry();
+        }
+        prev.nextEntry = next.nextEntry; // переброс линков
+    }}
     private void createNewEntry(V value, K key, int newPositionHash, MyEntry<K, V> element, int index) {
         MyEntry myEntry = new MyEntry(key, value, element, newPositionHash);
         elements[index] = myEntry;

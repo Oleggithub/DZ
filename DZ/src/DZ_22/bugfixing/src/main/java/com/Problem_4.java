@@ -7,9 +7,11 @@ public class Problem_4 {
         int[] masForCopy = new int[]{1, 3, 4, 5, 6, 7, 8};
         int[] second;
         System.out.println("before changes " + Arrays.toString(masForCopy));
-        //Arrays.copyOf(masForCopy, masForCopy.length);
+        //Arrays.copyOf(masForCopy, 3);
         System.out.println("after changes " + Arrays.toString(Arrays.copyOfRange(masForCopy, masForCopy.length-3, masForCopy.length)));
         //is it the same?)))))
+        System.out.println("after changes1 " + Arrays.toString(Arrays.copyOf(masForCopy, 3)));
+
 
 //        int[] masForCopy = new int[]{1, 3, 4, 5, 6, 7, 8};
 //        int[] masForCopyNEW;

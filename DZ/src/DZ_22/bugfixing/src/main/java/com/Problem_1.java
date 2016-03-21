@@ -7,7 +7,7 @@ public class Problem_1 {
 
     public static void main(String[] args) {
         String[] membersArray = new String[]{"1", "2", "3", "4", "5"};
-        List<String> membersList = Arrays.asList(membersArray);//�������� �� ���� - ��������� �� remove � add --- ���� ��������� ������) ������� �����
+        List<String> membersList = Arrays.asList(membersArray);//говорили на паре - вспомните за remove и add --- есть некоторые траблы) обойдти можно
 
 
         for (String member : membersList) {

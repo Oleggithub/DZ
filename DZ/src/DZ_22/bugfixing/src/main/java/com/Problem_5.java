@@ -1,8 +1,11 @@
 package DZ_22.bugfixing.src.main.java.com;
 
+import java.util.Arrays;
+
 public class Problem_5 {
     public static void main(String[] args) {
         Integer[] integers = {1, 6, 4, 3, 2, 21, 1};
+        Arrays.sort(integers);
         int i = binarySearchIterative(integers, 21);
         System.out.println(i);//---6?
     }

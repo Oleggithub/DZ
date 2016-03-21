@@ -9,10 +9,10 @@ public class Problem_5 {
 
     public static <T extends Number> int binarySearchIterative(T[] array, T keyElement) {
         int low = 0;
-        int high = array.length - 1;
+        int high = array.length-1 ;
 
         while (low <= high) {
-            int avg = low + (high - low) / 2;
+            int avg = (low + high) - low/2 ;
             if (keyElement == array[avg]) {
                 return avg;
             } else if (keyElement.doubleValue() > array[avg].doubleValue()) {

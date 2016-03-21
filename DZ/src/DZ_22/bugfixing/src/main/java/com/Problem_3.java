@@ -14,9 +14,11 @@ public class Problem_3 {
 
         for(int i = 0; i < TOTAL_ELEMS; ++i)
             integers.add(random.nextInt());
+        System.out.println("integers = " + integers);
 
         Collection<Object> collection = Collections.unmodifiableCollection(integers);
 
-        collection.add(random.nextInt());
+        collection.contains(random.nextInt());
+        System.out.println("collection = " + collection);
     }
 }

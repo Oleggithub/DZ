@@ -7,7 +7,7 @@ public class Problem_7 {
 
         public A() {
             aValue = 0;
-            bValue = new B();
+            bValue = new B(this);
         }
 
         @Override
@@ -20,9 +20,9 @@ public class Problem_7 {
         private int bValue;
         private A aInstance = null;
 
-        public B() {
+        public B(A a) {
             bValue = 10;
-            aInstance = new A();
+            aInstance = a;
         }
 
         @Override

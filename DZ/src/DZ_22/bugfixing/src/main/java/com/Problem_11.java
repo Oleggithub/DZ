@@ -3,7 +3,7 @@ package DZ_22.bugfixing.src.main.java.com;
 import java.util.ArrayList;
 
 public class Problem_11 {
-    private ArrayList<String> storedStrings;
+    private ArrayList<String> storedStrings = new ArrayList<>();
 
 
     public Problem_11() {
@@ -11,6 +11,10 @@ public class Problem_11 {
     }
 
     private void breakString(String s) {
+//        if (storedStrings.isEmpty()) return;
+//        for (String el:storedStrings){//проверка длины строки на соответствие условию s.length() >= 9
+//            if (el.length()<)
+//        }
         if (s.length() > 9) {
             storedStrings.add(0, s.substring(s.length() - 9, s.length()));
             this.breakString(s.substring(0, s.length() - 9));
